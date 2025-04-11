@@ -1,0 +1,24 @@
+{
+  "ProjectName": "2 Bit ALU",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2025-04-11T16:10:38.7515599+06:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "XOR",
+    "2BIT ALU"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "NAND",
+    "OR",
+    "XOR",
+    "2BIT ALU"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 2,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 1
+  }
+}
